@@ -1,0 +1,3 @@
+#+s:: Send {PrintScreen}
+
+return
